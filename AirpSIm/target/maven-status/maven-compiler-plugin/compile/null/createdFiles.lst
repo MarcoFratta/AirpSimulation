@@ -1,0 +1,7 @@
+org\VoituLex\model\SimulationObject.class
+org\VoituLex\view\SimulationController.class
+org\VoituLex\engine\Engine$1.class
+org\VoituLex\view\BotView.class
+org\VoituLex\test\PathTest.class
+org\VoituLex\view\BoxView.class
+org\VoituLex\model\Path.class
